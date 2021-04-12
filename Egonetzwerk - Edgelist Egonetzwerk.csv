@@ -1,0 +1,11 @@
+from,to,weight
+EP,LB,4
+EP,VK,3
+EP,PB,3
+EP,PM,4
+LB,PB,3
+PB,LB,3
+LB,EP,4
+VK,EP,3
+PB,EP,3
+PM,EP,4
